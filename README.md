@@ -44,3 +44,9 @@ Enter user credentials in the login page.
 Center the map by providing your location, or place pins anywhere by clicking.
 Clicking again on a pin will allow it to be deleted, named, or have a description added.
 Press logout when done using the application.
+
+## Contributors
+Gavin Moore
+Eric Penn
+Evan Yeager
+Ricardo Pineda
