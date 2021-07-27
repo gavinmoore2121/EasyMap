@@ -1,0 +1,7 @@
+<div (click)="pinClicked($event)" class="container">
+  <h4>{{ pin.name | capitalPipe: "something" }}</h4>
+  <input [(ngModel)]="pin.name" name="pin-name" />
+  <span class="detail">{{ donut?.specialty }}</span>
+  <span class="detail">{{ donut?.inStock }}</span>
+  {{ donut | json }}
+</div>
