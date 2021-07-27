@@ -1,7 +1,7 @@
-# EasyPin
+# EasyMap
  
 ## Project Description
-EasyPin is a web application designed to let anyone quickly and easily add and save custom markers onto a map for future reference. EasyPin uses the Google Maps API to let users place, name, and add descriptions to their markers, which can then be saved to a cloud database to look up later. EasyPin is perfect for remembering small locations, such as diners, hiking trails, fishing spots, or landmarks that aren't well-known enough to be included in Google Maps.
+EasyMap is a web application designed to let anyone quickly and easily add and save custom markers onto a map for future reference. EasyMap uses the Google Maps API to let users place, name, and add descriptions to their markers, which can then be saved to a cloud database to look up later. EasyMap is perfect for remembering small locations, such as diners, hiking trails, fishing spots, or landmarks that aren't well-known enough to be included in Google Maps.
 
 ## Technologies Used
  * Java v8
@@ -33,10 +33,10 @@ To-do
 1. Clone the repository to desired work directory.
 2. For security purposes, Cloud database details are not included in this file. 
 3. Create a hibernate.cfg.xml file with the required parameters for a Hibernate database connection to desired database.
-4. Add file to the folder EasyPin/ServerSideJava/src/main/resources
-5. Launch the folder EasyPin/ServerSideJava using the desired server program onto localhost:8080 with no configured subname.
-6. Using Angular CLI, run ng build from the directory EasyPin/AngularWebApp
-7. Launch the folder EasyPin/AngularWebApp on a servlet on port 4200.
+4. Add file to the folder EasyMap/ServerSideJava/src/main/resources
+5. Launch the folder EasyMap/ServerSideJava using the desired server program onto localhost:8080 with no configured subname.
+6. Using Angular CLI, run ng build from the directory EasyMap/AngularWebApp
+7. Launch the folder EasyMap/AngularWebApp on a servlet on port 4200.
 8. The application can now be used from localhost:4200 in any web browser.
 
 ## Usage
